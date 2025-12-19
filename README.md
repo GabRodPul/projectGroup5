@@ -3,7 +3,8 @@
 > This project was forked from [aitorelrincon/projectGroup5](https://github.com/aitorelrincon/projectGroup5) with the sole purpose of making it easier for me, [GabRodPul](https://github.com/GabRodPul), and others to find it in my profile.
 > <br/> It wouldn't have been completed without the work of all team members, so please make sure to check commits to get a general idea of what each of us did.
 > <br/> This repository does not contain all the work done for this project (there isn't anything missing from the code or assets, though). The Game Design Document, for example, can't be found here, so keep that in mind.
-> <br/> The only modification made to the project since release has been the addition of this README file, and this fork only adds this note.
+
+The only modification made to the project since release has been the addition of this README file, and this fork only adds this note.
 Sorround yourself with autochthonous fauna and flora from the Canary Islands and catch the bugs coming for you! But... careful! Not all bugs behave the same! Make cunning use of your net and catch all waves as fast as you can!
 <br/>
 
